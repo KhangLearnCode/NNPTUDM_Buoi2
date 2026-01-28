@@ -14,7 +14,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://i.imgur.com/PgK0RMZ.png"
     ],
     "creationAt": "2026-01-27T12:58:26.000Z",
     "updatedAt": "2026-01-27T12:58:26.000Z"
@@ -294,7 +294,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T16:44:10.000Z",
     "updatedAt": "2026-01-27T16:44:10.000Z"
@@ -314,7 +314,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placeimg.com/640/480/any"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T17:01:15.000Z",
     "updatedAt": "2026-01-27T17:01:16.000Z"
@@ -334,7 +334,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T17:54:55.000Z",
     "updatedAt": "2026-01-27T17:54:55.000Z"
@@ -354,7 +354,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://placeimg.com/640/480/tech"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T18:12:31.000Z",
     "updatedAt": "2026-01-27T18:12:31.000Z"
@@ -374,7 +374,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T18:50:45.000Z",
     "updatedAt": "2026-01-27T18:50:45.000Z"
@@ -394,7 +394,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T18:51:47.000Z",
     "updatedAt": "2026-01-27T18:51:47.000Z"
@@ -414,7 +414,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T19:04:23.000Z",
     "updatedAt": "2026-01-27T19:04:23.000Z"
@@ -434,7 +434,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T19:07:13.000Z",
     "updatedAt": "2026-01-27T19:07:13.000Z"
@@ -454,7 +454,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T21:34:17.000Z",
     "updatedAt": "2026-01-27T21:34:17.000Z"
@@ -474,7 +474,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T22:41:40.000Z",
     "updatedAt": "2026-01-27T22:41:40.000Z"
@@ -494,7 +494,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T22:58:48.000Z",
     "updatedAt": "2026-01-27T22:58:48.000Z"
@@ -514,7 +514,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T22:59:15.000Z",
     "updatedAt": "2026-01-27T22:59:15.000Z"
@@ -534,7 +534,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-27T23:42:20.000Z",
     "updatedAt": "2026-01-27T23:42:20.000Z"
@@ -554,7 +554,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T00:11:15.000Z",
     "updatedAt": "2026-01-28T00:12:30.000Z"
@@ -574,7 +574,7 @@ const products = [
       "updatedAt": "2026-01-27T15:16:02.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T00:13:45.000Z",
     "updatedAt": "2026-01-28T00:18:11.000Z"
@@ -594,7 +594,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:32:51.000Z",
     "updatedAt": "2026-01-28T02:32:51.000Z"
@@ -614,7 +614,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:34:48.000Z",
     "updatedAt": "2026-01-28T02:34:48.000Z"
@@ -634,7 +634,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:34:57.000Z",
     "updatedAt": "2026-01-28T02:34:57.000Z"
@@ -654,7 +654,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:35:06.000Z",
     "updatedAt": "2026-01-28T02:35:06.000Z"
@@ -674,7 +674,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:36:10.000Z",
     "updatedAt": "2026-01-28T02:36:10.000Z"
@@ -694,7 +694,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:36:19.000Z",
     "updatedAt": "2026-01-28T02:36:19.000Z"
@@ -714,7 +714,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:36:26.000Z",
     "updatedAt": "2026-01-28T02:36:26.000Z"
@@ -734,7 +734,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:36:33.000Z",
     "updatedAt": "2026-01-28T02:36:33.000Z"
@@ -754,7 +754,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:36:39.000Z",
     "updatedAt": "2026-01-28T02:36:39.000Z"
@@ -774,7 +774,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://placehold.co/600x400"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T02:55:46.000Z",
     "updatedAt": "2026-01-28T02:55:46.000Z"
@@ -794,7 +794,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://placeimg.com/640/480/tech"
+      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
     ],
     "creationAt": "2026-01-28T06:07:43.000Z",
     "updatedAt": "2026-01-28T06:07:43.000Z"
@@ -825,11 +825,12 @@ function renderTable(list){
   const loading = document.getElementById('loading');
   if(!tbody) return;
   tbody.innerHTML = '';
+  
   list.forEach(p => {
     const tr = document.createElement('tr');
 
-    // safe image src + fallback onerror
-    const imgSrc = (p.images && p.images[0]) ? p.images[0] : 'https://via.placeholder.com/56x48/e0e0e0/666?text=No+Image';
+    // Get image source or use fallback
+    const imgSrc = (p.images && p.images[0]) ? p.images[0] : 'https://via.placeholder.com/56x48/ccc/999?text=No+Image';
 
     tr.innerHTML = `
       <td class="col-id">${p.id}</td>
@@ -838,15 +839,15 @@ function renderTable(list){
       <td class="col-price">${money(p.price)}</td>
       <td class="col-description">${escapeHtml(truncate(p.description,120))}</td>
       <td class="col-category">${escapeHtml(p.category?.name||'')}</td>
-      <td class="col-image"><img src="${imgSrc}" alt="${escapeHtml(p.title)}" /></td>
+      <td class="col-image"><img src="${imgSrc}" alt="${escapeHtml(p.title)}" style="width:56px;height:48px;object-fit:cover;border-radius:6px;border:1px solid #e6edf0;background-color:#f0f0f0;" /></td>
     `;
-    // set robust onerror for the img element
+    
+    // Set up error handler for images that fail to load
     const img = tr.querySelector('img');
     if(img){
-      img.onerror = function(){
-        this.onerror = null;
-        this.src = 'https://via.placeholder.com/56x48/e0e0e0/666?text=No+Image';
-      };
+      img.addEventListener('error', function(e){
+        this.src = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2256%22 height=%2248%22%3E%3Crect fill=%22%23e0e0e0%22 width=%2256%22 height=%2248%22/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23999%22 font-size=%2210%22%3ENo Image%3C/text%3E%3C/svg%3E';
+      }, {once: true});
     }
 
     tbody.appendChild(tr);
