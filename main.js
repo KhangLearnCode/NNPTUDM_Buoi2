@@ -1,65 +1,5 @@
 const products = [
   {
-    "id": 160,
-    "title": "External Hard Drive",
-    "slug": "external-hard-drive",
-    "price": 890,
-    "description": "High-capacity external hard drive offering fast data transfer, reliable storage, and secure backup for personal and professional use.",
-    "category": {
-      "id": 1,
-      "name": "Clothes",
-      "slug": "clothes",
-      "image": "https://i.imgur.com/QkIa5tT.jpeg",
-      "creationAt": "2026-01-27T11:46:15.000Z",
-      "updatedAt": "2026-01-28T02:54:10.000Z"
-    },
-    "images": [
-      "https://i.imgur.com/PgK0RMZ.png"
-    ],
-    "creationAt": "2026-01-27T12:58:26.000Z",
-    "updatedAt": "2026-01-27T12:58:26.000Z"
-  },
-  {
-    "id": 187,
-    "title": "Fire Red Sport Sneakers",
-    "slug": "fire-red-sport-sneakers",
-    "price": 95,
-    "description": "Bold red sneakers designed for those who love speed and style. Features advanced grip technology.",
-    "category": {
-      "id": 4,
-      "name": "Shoes",
-      "slug": "shoes",
-      "image": "https://i.imgur.com/qNOjJje.jpeg",
-      "creationAt": "2026-01-27T11:46:15.000Z",
-      "updatedAt": "2026-01-27T11:46:15.000Z"
-    },
-    "images": [
-      "https://i.imgur.com/PgK0RMZ.png"
-    ],
-    "creationAt": "2026-01-27T16:04:41.000Z",
-    "updatedAt": "2026-01-27T16:04:41.000Z"
-  },
-  {
-    "id": 188,
-    "title": "Aggressive Black & Red Sneakers",
-    "slug": "aggressive-black-red-sneakers",
-    "price": 110,
-    "description": "Dynamic color-block design in black and red. Built for durability and high-impact activities.",
-    "category": {
-      "id": 4,
-      "name": "Shoes",
-      "slug": "shoes",
-      "image": "https://i.imgur.com/qNOjJje.jpeg",
-      "creationAt": "2026-01-27T11:46:15.000Z",
-      "updatedAt": "2026-01-27T11:46:15.000Z"
-    },
-    "images": [
-      "https://i.imgur.com/vPjonMX.png"
-    ],
-    "creationAt": "2026-01-27T16:04:46.000Z",
-    "updatedAt": "2026-01-27T16:04:46.000Z"
-  },
-  {
     "id": 189,
     "title": "Minimalist White Sport Smartwatch",
     "slug": "minimalist-white-sport-smartwatch",
@@ -78,66 +18,6 @@ const products = [
     ],
     "creationAt": "2026-01-27T16:09:07.000Z",
     "updatedAt": "2026-01-27T16:09:07.000Z"
-  },
-  {
-    "id": 190,
-    "title": "Premium Black Wireless Headset",
-    "slug": "premium-black-wireless-headset",
-    "price": 120,
-    "description": "Experience high-fidelity sound with these over-ear wireless headphones. Noise-canceling technology and 40-hour battery life.",
-    "category": {
-      "id": 2,
-      "name": "Electronics",
-      "slug": "electronics",
-      "image": "https://i.imgur.com/ZANVnHE.jpeg",
-      "creationAt": "2026-01-27T11:46:15.000Z",
-      "updatedAt": "2026-01-27T11:46:15.000Z"
-    },
-    "images": [
-      "https://i.imgur.com/uAbpeVs.png"
-    ],
-    "creationAt": "2026-01-27T16:09:13.000Z",
-    "updatedAt": "2026-01-27T16:09:13.000Z"
-  },
-  {
-    "id": 191,
-    "title": "Waterproof Bluetooth Earbuds - Black",
-    "slug": "waterproof-bluetooth-earbuds-black",
-    "price": 80,
-    "description": "Compact and powerful earbuds perfect for the gym or rainy commutes. IPX7 waterproof rating and seamless Bluetooth pairing.",
-    "category": {
-      "id": 2,
-      "name": "Electronics",
-      "slug": "electronics",
-      "image": "https://i.imgur.com/ZANVnHE.jpeg",
-      "creationAt": "2026-01-27T11:46:15.000Z",
-      "updatedAt": "2026-01-27T11:46:15.000Z"
-    },
-    "images": [
-      "https://i.imgur.com/BEZlrr6.png"
-    ],
-    "creationAt": "2026-01-27T16:09:19.000Z",
-    "updatedAt": "2026-01-27T16:09:19.000Z"
-  },
-  {
-    "id": 192,
-    "title": "Vintage Mood Indigo Cap",
-    "slug": "vintage-mood-indigo-cap",
-    "price": 18,
-    "description": "A stylish and adjustable cap in a deep indigo blue. Perfect for outdoor activities and casual outfits.",
-    "category": {
-      "id": 1,
-      "name": "Clothes",
-      "slug": "clothes",
-      "image": "https://i.imgur.com/QkIa5tT.jpeg",
-      "creationAt": "2026-01-27T11:46:15.000Z",
-      "updatedAt": "2026-01-28T02:54:10.000Z"
-    },
-    "images": [
-      "https://i.imgur.com/JLrUweq.png"
-    ],
-    "creationAt": "2026-01-27T16:35:02.000Z",
-    "updatedAt": "2026-01-27T16:35:02.000Z"
   },
   {
     "id": 193,
@@ -294,7 +174,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T16:44:10.000Z",
     "updatedAt": "2026-01-27T16:44:10.000Z"
@@ -314,7 +194,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placeimg.com/640/480/any"
     ],
     "creationAt": "2026-01-27T17:01:15.000Z",
     "updatedAt": "2026-01-27T17:01:16.000Z"
@@ -334,7 +214,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T17:54:55.000Z",
     "updatedAt": "2026-01-27T17:54:55.000Z"
@@ -354,7 +234,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placeimg.com/640/480/tech"
     ],
     "creationAt": "2026-01-27T18:12:31.000Z",
     "updatedAt": "2026-01-27T18:12:31.000Z"
@@ -374,7 +254,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T18:50:45.000Z",
     "updatedAt": "2026-01-27T18:50:45.000Z"
@@ -394,7 +274,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T18:51:47.000Z",
     "updatedAt": "2026-01-27T18:51:47.000Z"
@@ -414,7 +294,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T19:04:23.000Z",
     "updatedAt": "2026-01-27T19:04:23.000Z"
@@ -434,7 +314,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T19:07:13.000Z",
     "updatedAt": "2026-01-27T19:07:13.000Z"
@@ -454,7 +334,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T21:34:17.000Z",
     "updatedAt": "2026-01-27T21:34:17.000Z"
@@ -474,7 +354,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T22:41:40.000Z",
     "updatedAt": "2026-01-27T22:41:40.000Z"
@@ -494,7 +374,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T22:58:48.000Z",
     "updatedAt": "2026-01-27T22:58:48.000Z"
@@ -514,7 +394,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T22:59:15.000Z",
     "updatedAt": "2026-01-27T22:59:15.000Z"
@@ -534,7 +414,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-27T23:42:20.000Z",
     "updatedAt": "2026-01-27T23:42:20.000Z"
@@ -554,7 +434,7 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T00:11:15.000Z",
     "updatedAt": "2026-01-28T00:12:30.000Z"
@@ -574,7 +454,7 @@ const products = [
       "updatedAt": "2026-01-27T15:16:02.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T00:13:45.000Z",
     "updatedAt": "2026-01-28T00:18:11.000Z"
@@ -594,7 +474,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:32:51.000Z",
     "updatedAt": "2026-01-28T02:32:51.000Z"
@@ -614,7 +494,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:34:48.000Z",
     "updatedAt": "2026-01-28T02:34:48.000Z"
@@ -634,7 +514,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:34:57.000Z",
     "updatedAt": "2026-01-28T02:34:57.000Z"
@@ -654,7 +534,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:35:06.000Z",
     "updatedAt": "2026-01-28T02:35:06.000Z"
@@ -674,7 +554,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:36:10.000Z",
     "updatedAt": "2026-01-28T02:36:10.000Z"
@@ -694,7 +574,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:36:19.000Z",
     "updatedAt": "2026-01-28T02:36:19.000Z"
@@ -714,7 +594,7 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:36:26.000Z",
     "updatedAt": "2026-01-28T02:36:26.000Z"
@@ -734,30 +614,10 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:36:33.000Z",
     "updatedAt": "2026-01-28T02:36:33.000Z"
-  },
-  {
-    "id": 231,
-    "title": "Mất quyền kiểm soát 8",
-    "slug": "mat-quyen-kiem-soat-8",
-    "price": 108,
-    "description": "Sản phẩm Mất quyền kiểm soát số 8",
-    "category": {
-      "id": 1,
-      "name": "Clothes",
-      "slug": "clothes",
-      "image": "https://i.imgur.com/QkIa5tT.jpeg",
-      "creationAt": "2026-01-27T11:46:15.000Z",
-      "updatedAt": "2026-01-28T02:54:10.000Z"
-    },
-    "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
-    ],
-    "creationAt": "2026-01-28T02:36:39.000Z",
-    "updatedAt": "2026-01-28T02:36:39.000Z"
   },
   {
     "id": 233,
@@ -774,13 +634,33 @@ const products = [
       "updatedAt": "2026-01-27T11:46:15.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placehold.co/600x400"
     ],
     "creationAt": "2026-01-28T02:55:46.000Z",
     "updatedAt": "2026-01-28T02:55:46.000Z"
   },
   {
-    "id": 245,
+    "id": 247,
+    "title": "Truth Without Apology",
+    "slug": "truth-without-apology",
+    "price": 250,
+    "description": "Written by a real human",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2026-01-27T11:46:15.000Z",
+      "updatedAt": "2026-01-28T02:54:10.000Z"
+    },
+    "images": [
+      "https://placeimg.com/640/480/any"
+    ],
+    "creationAt": "2026-01-28T06:44:48.000Z",
+    "updatedAt": "2026-01-28T06:44:48.000Z"
+  },
+  {
+    "id": 248,
     "title": "Iphone",
     "slug": "iphone",
     "price": 80000,
@@ -794,68 +674,140 @@ const products = [
       "updatedAt": "2026-01-28T02:54:10.000Z"
     },
     "images": [
-      "https://via.placeholder.com/56x48/ccc/999?text=No+Image"
+      "https://placeimg.com/640/480/tech"
     ],
-    "creationAt": "2026-01-28T06:07:43.000Z",
-    "updatedAt": "2026-01-28T06:07:43.000Z"
+    "creationAt": "2026-01-28T06:53:09.000Z",
+    "updatedAt": "2026-01-28T06:53:09.000Z"
+  },
+  {
+    "id": 249,
+    "title": "Software",
+    "slug": "software",
+    "price": 10,
+    "description": "Test Automation tool",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2026-01-27T11:46:15.000Z",
+      "updatedAt": "2026-01-28T02:54:10.000Z"
+    },
+    "images": [
+      "https://placehold.co/600x400"
+    ],
+    "creationAt": "2026-01-28T07:04:52.000Z",
+    "updatedAt": "2026-01-28T07:04:52.000Z"
   }
 ];
 
-function money(n){
+// ========== UTILITY FUNCTIONS ==========
+
+// Format số tiền
+function money(n) {
   return '$' + Number(n).toLocaleString();
 }
 
-function truncate(s, n=90){
-  if(!s) return '';
-  return s.length>n? s.slice(0,n-1)+'…' : s;
+// Cắt ngắn chuỗi
+function truncate(s, n = 90) {
+  if (!s) return '';
+  return s.length > n ? s.slice(0, n - 1) + '…' : s;
 }
 
-function escapeHtml(str){
-  if(!str) return '';
+// Escape HTML để tránh XSS
+function escapeHtml(str) {
+  if (!str) return '';
   return String(str)
-    .replace(/&/g,'&amp;')
-    .replace(/</g,'&lt;')
-    .replace(/>/g,'&gt;')
-    .replace(/"/g,'&quot;')
-    .replace(/'/g,'&#039;');
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
 }
 
-function renderTable(list){
+// Kiểm tra URL ảnh có hợp lệ không
+function isValidImageUrl(url) {
+  if (!url) return false;
+  
+  // Danh sách các URL placeholder không hợp lệ hoặc đã ngừng hoạt động
+  const invalidPatterns = [
+    'placeimg.com',       // Dịch vụ đã ngừng hoạt động
+    'placehold.co',       // Placeholder trống
+    'via.placeholder.com', // Có thể không ổn định
+    'placeholder.com'     // Các placeholder khác
+  ];
+  
+  return !invalidPatterns.some(pattern => url.includes(pattern));
+}
+
+// Lấy ảnh mặc định dựa trên category
+function getDefaultImage(category) {
+  if (!category || !category.image) {
+    return 'https://i.imgur.com/QkIa5tT.jpeg'; // Default fallback
+  }
+  return category.image;
+}
+
+// ========== RENDER TABLE ==========
+
+function renderTable(list) {
   const tbody = document.getElementById('productsBody');
   const loading = document.getElementById('loading');
-  if(!tbody) return;
-  tbody.innerHTML = '';
   
+  if (!tbody) return;
+  tbody.innerHTML = '';
+
   list.forEach(p => {
     const tr = document.createElement('tr');
 
-    // Get image source or use fallback
-    const imgSrc = (p.images && p.images[0]) ? p.images[0] : 'https://via.placeholder.com/56x48/ccc/999?text=No+Image';
+    // Xác định URL ảnh hợp lệ
+    let imgSrc;
+    if (p.images && p.images[0] && isValidImageUrl(p.images[0])) {
+      imgSrc = p.images[0];
+    } else {
+      // Sử dụng ảnh category làm fallback
+      imgSrc = getDefaultImage(p.category);
+    }
 
     tr.innerHTML = `
       <td class="col-id">${p.id}</td>
       <td class="col-title">${escapeHtml(p.title)}</td>
-      <td class="col-slug">${escapeHtml(p.slug||'')}</td>
+      <td class="col-slug">${escapeHtml(p.slug || '')}</td>
       <td class="col-price">${money(p.price)}</td>
-      <td class="col-description">${escapeHtml(truncate(p.description,120))}</td>
-      <td class="col-category">${escapeHtml(p.category?.name||'')}</td>
-      <td class="col-image"><img src="${imgSrc}" alt="${escapeHtml(p.title)}" style="width:56px;height:48px;object-fit:cover;border-radius:6px;border:1px solid #e6edf0;background-color:#f0f0f0;" /></td>
+      <td class="col-description">${escapeHtml(truncate(p.description, 120))}</td>
+      <td class="col-category">${escapeHtml(p.category?.name || '')}</td>
+      <td class="col-image">
+        <img 
+          src="${imgSrc}" 
+          alt="${escapeHtml(p.title)}" 
+          loading="lazy"
+        />
+      </td>
     `;
-    
-    // Set up error handler for images that fail to load
+
+    // Xử lý lỗi khi ảnh không load được
     const img = tr.querySelector('img');
-    if(img){
-      img.addEventListener('error', function(e){
-        this.src = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2256%22 height=%2248%22%3E%3Crect fill=%22%23e0e0e0%22 width=%2256%22 height=%2248%22/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23999%22 font-size=%2210%22%3ENo Image%3C/text%3E%3C/svg%3E';
-      }, {once: true});
+    if (img) {
+      img.addEventListener('error', function() {
+        // Fallback khi ảnh lỗi: sử dụng ảnh category hoặc SVG placeholder
+        const fallbackUrl = getDefaultImage(p.category);
+        if (this.src !== fallbackUrl) {
+          this.src = fallbackUrl;
+        } else {
+          // Nếu ảnh category cũng lỗi, dùng SVG inline
+          this.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="56" height="48"%3E%3Crect fill="%23e0e0e0" width="56" height="48"/%3E%3Ctext x="50%25" y="50%25" text-anchor="middle" dy=".3em" fill="%23999" font-size="8"%3ENo Image%3C/text%3E%3C/svg%3E';
+        }
+      }, { once: true });
     }
 
     tbody.appendChild(tr);
   });
 
-  if(loading) loading.style.display = 'none';
+  // Ẩn loading indicator
+  if (loading) loading.style.display = 'none';
 }
 
-document.addEventListener('DOMContentLoaded', ()=>{
+
+document.addEventListener('DOMContentLoaded', () => {
   renderTable(products);
 });
